@@ -23,7 +23,7 @@ use warp_core::{
 };
 
 pub mod proxy;
-pub use proxy::{ProxyConfig, ProxyMode, current_proxy_config, set_global_proxy_config};
+pub use proxy::{current_proxy_config, set_global_proxy_config, ProxyConfig, ProxyMode};
 
 pub mod headers {
     /// Custom Warp header indicating the version of the Warp app.
