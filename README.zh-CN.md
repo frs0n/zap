@@ -4,7 +4,7 @@
 
 # Zap
 
-[English](./README.md)
+[English](./README.md) · [日本語](./README.ja.md)
 
 <sub><i>目前基于 <a href="https://github.com/warpdotdev/warp">Warp</a>,后续将独立演进。</i></sub>
 
